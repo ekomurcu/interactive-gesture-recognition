@@ -1,0 +1,17 @@
+14:55:32 [Skill] INFO  Skill:139 - Connecting to Furhat server on 192.168.86.38:1932
+14:55:32 [Responsive_behaviourSkill] INFO  Responsive_behaviourSkill:173 - Starting skill
+14:55:41 [Responsive_behaviourSkill] ERROR InitRunner: 28 - java.util.NoSuchElementException: No line found
+14:55:42 [ErrorLoggingThread] ERROR Responsive_behaviourSkill:466 - java.util.NoSuchElementException: No line found
+	at java.util.Scanner.nextLine(Scanner.java:1540)
+	at furhatos.app.responsive_behaviour.flow.GeneralKt$Idle$1$1.invoke(general.kt:26)
+	at furhatos.app.responsive_behaviour.flow.GeneralKt$Idle$1$1.invoke(general.kt)
+	at furhatos.flow.kotlin.InitRunner.run(InitRunner.kt:25)
+	at furhatos.flow.kotlin.StateRunner.runInitTrigger(StateRunner.kt:215)
+	at furhatos.flow.kotlin.StateRunner.run(StateRunner.kt:64)
+	at furhatos.flow.kotlin.Flow.tailRecRun(Flow.kt:146)
+	at furhatos.flow.kotlin.Flow.run(Flow.kt:110)
+	at furhatos.app.responsive_behaviour.Responsive_behaviourSkill.start(main.kt:9)
+	at furhatos.skills.Skill.initializeSkill(Skill.java:176)
+	at furhatos.skills.Skill.lambda$startSkill$2(Skill.java:234)
+	at java.lang.Thread.run(Thread.java:748)
+

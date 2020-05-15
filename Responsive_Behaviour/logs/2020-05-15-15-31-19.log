@@ -1,0 +1,6 @@
+15:31:20 [Skill] INFO  Skill:139 - Connecting to Furhat server on 192.168.86.38:1932
+15:31:20 [Responsive_behaviourSkill] INFO  Responsive_behaviourSkill:173 - Starting skill
+15:31:54 [Responsive_behaviourSkill] WARN  Flow: 93 - Flow unknown unresponsive, 6459 ms since last event poll
+15:32:04 [Responsive_behaviourSkill] WARN  Flow: 93 - Flow unknown unresponsive, 8916 ms since last event poll
+15:32:09 [Responsive_behaviourSkill] WARN  Flow: 93 - Flow unknown unresponsive, 3306 ms since last event poll
+15:32:22 [Responsive_behaviourSkill] WARN  Flow: 93 - Flow unknown unresponsive, 11143 ms since last event poll
