@@ -1,0 +1,4 @@
+15:35:51 [Skill] INFO  Skill:139 - Connecting to Furhat server on 192.168.86.38:1932
+15:35:51 [Responsive_behaviourSkill] INFO  Responsive_behaviourSkill:173 - Starting skill
+15:44:18 [ErrorLoggingThread] ERROR Responsive_behaviourSkill:466 - Flow - unknown - A flow's queue is full, could not add furhatos.event.monitors.MonitorGestureEnd
+
